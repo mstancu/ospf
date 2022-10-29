@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: OSPF-service
+server:
+  port: 8080
+logging:
+  level:
+    root: info
+    net.example.ospf: debug

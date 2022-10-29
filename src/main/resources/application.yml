@@ -7,3 +7,7 @@ logging:
   level:
     root: info
     net.example.ospf: debug
+    net.example.ospf.cloud.openfeign.client: DEBUG
+feign.client.config:
+  default:
+    connectTimeout: 5000

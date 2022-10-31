@@ -1,4 +1,4 @@
-package net.example.ospf;
+package net.example.ospf.model;
 
 import lombok.Data;
 

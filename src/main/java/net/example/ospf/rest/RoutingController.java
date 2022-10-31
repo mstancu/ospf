@@ -2,7 +2,7 @@ package net.example.ospf.rest;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import net.example.ospf.Country;
+import net.example.ospf.model.Country;
 import net.example.ospf.services.RoutingService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
